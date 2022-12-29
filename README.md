@@ -38,7 +38,7 @@ First on the user page we will want to open a new ticket. From there we will log
 <br />
 
 <p>
-<img src="https://i.imgur.com/I2z6HbR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ejxO0eU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Next we will head back to the agent login at <strong>(http://localhost/osTicket/scp/index.php)</strong>. There we will login as one of are agents to review are recently created ticket.
